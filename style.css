@@ -1,0 +1,38 @@
+      /* هنا تنسيق الألوان  مع حجم الخط ونوع الخط وموقع العناصر */
+      body {
+            background-color: #b5c3da;
+            color: #04080f;
+            font-size: 18px;
+            text-align: center;
+            }
+        #name { 
+            color: #c40000;
+        }
+            #specialty { 
+                color: #ffffff;
+            }
+                #skills { 
+                    width: 70%;
+                    margin: auto;
+                    line-height: 1.8;
+                } 
+                #quote { 
+                    background-color: #E0F2FE;
+                    width: 35%;
+                    margin: 20px auto;
+                    padding: 15px;
+                    border-radius: 10px;
+                        
+                       
+                        }
+                #specialty-mark { 
+                    background-color: #56c6fa;
+                }
+            #skills-bold { 
+                color: #016e23; 
+            }
+            h3.test_k {
+                color: #2a647e;
+                font-size: 20px;
+                 line-height: 0.5;
+            }
